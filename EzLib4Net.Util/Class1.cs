@@ -8,5 +8,6 @@ namespace EzLib4Net.Util
 {
     public class Class1
     {
+        //yrdy
     }
 }
